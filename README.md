@@ -1,0 +1,2 @@
+# bar
+go module demo
